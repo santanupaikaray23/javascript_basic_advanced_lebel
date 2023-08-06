@@ -1,1 +1,11 @@
--Javascript
+String > "Hii" "Hello" "Odisha"
+Bolean > true false
+Number > 22 34342 567455 67.89 56.78
+
+null
+undefined
+
+var a = 10
+var b = "hi"
+var c = "true"
+
