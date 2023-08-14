@@ -31,4 +31,4 @@ document.cookie
 document.cookie="myCookies=test; expires=tue, 25 May 2021 01:00:00 UTC"
 'myCookies=test; expires=tue, 25 May 2021 01:00:00 UTC'
 
-COMPLETED - 5TH CLASS
+COMPLETED - 6TH CLASS
