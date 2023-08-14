@@ -27,3 +27,8 @@ var c = "a12"
 undefined
 parseInt(c)
 NaN
+
+var a="1a2"
+parseInt(a)
+var a="12a"
+parseInt(a)
