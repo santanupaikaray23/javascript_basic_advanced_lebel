@@ -17,3 +17,5 @@ push add in the end of the array
 var a = ['a','b','c','hii']
 var b = [1,2,3]
 a+b
+
+
