@@ -1,7 +1,7 @@
 if(condition){
-    // do something
+    do something
 }else{
-    // do something
+    do something
 }
 
 var a =34432
@@ -44,6 +44,6 @@ if (a){
 }
 
 Ternary > single line if else
-///////////
+/////////
 var a = 11
 a>10?"hii":"Bie"
