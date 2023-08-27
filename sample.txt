@@ -9,4 +9,4 @@ var a = 10
 var b = "hi"
 var c = "true"
 
-video completed : 7th
+video completed : 8th
